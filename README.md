@@ -1,5 +1,5 @@
 # 🚀 Mon Portfolio - Projet 1
-Bienvenue sur le dépôt de mon premier projet de portfolio réalisé chez *Kadea Academy* 2026.
+Bienvenue sur le dépôt de mon premier projet de portfolio réalisé chez *Kadea Academy*.
 
 ## 🛠️ Stack Technique
 * HTML5 
